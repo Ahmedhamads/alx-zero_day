@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 echo "ALX"
+=======
+#!/bin/bash
+>>>>>>> update_script
 echo "The school is open!"
 
